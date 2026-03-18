@@ -52,3 +52,6 @@ Future Improvements
 - Improved filtering (adaptive or FIR filters)
 - Real-time visualization via web interface
 - Data logging and long-term monitoring
+
+Research Paper
+[Read the full paper](ESP32_ECG_AI_System_Research_Paper.pdf)
